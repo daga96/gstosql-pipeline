@@ -19,8 +19,6 @@ jobs:
         with:
           python-version: "3.9"
           cache: "pip"
-      - name: Install dependencies
-        run: pip install -r requirements.txt
       - name: Run data pipeline
         run: python data_pipeline.py
       - name: Check for changes
