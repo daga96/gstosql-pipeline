@@ -1,9 +1,7 @@
 from functions import *
-import time
-import datetime
 import logging 
 import yaml
-import psycopg2
+
 
 def load_config(file_path):
     with open(file_path, 'r') as file:
