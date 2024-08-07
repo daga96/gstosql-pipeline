@@ -1,0 +1,9 @@
+db_username: mainadmin
+db_password: xcv34@12
+db_host: localhost
+db_port: 5432
+db_name: gamelauncher
+schema_name: game
+staging_table_name: bow_table
+file_id: 1LEf_GZ-yUD0vXFOL4Hz1QnPQbKe2qoolrIgTE8PZmF8
+service_account_file: credentials.json
