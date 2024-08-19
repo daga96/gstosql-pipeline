@@ -1,4 +1,4 @@
 pandas
 psycopg2
 google-api-python-client
-yaml
+pyyaml
